@@ -166,11 +166,11 @@
 ### Задание 2. Анализ готовых промптов
 
 **Категория:** путешествия.
-**Источники:** https://t-j.ru/list/prompts-for-travel/ и https://zeh.media/ponyat/6037158-10-promtov-dlya-neyrosetey-kotoryye-pomogut-splanirovat-puteshestviye-i-pridumat-svoi-ekskursii.
+**Источники:** [t-j.](https://t-j.ru/list/prompts-for-travel/) и [zeh](https://zeh.media/ponyat/6037158-10-promtov-dlya-neyrosetey-kotoryye-pomogut-splanirovat-puteshestviye-i-pridumat-svoi-ekskursii)
 
 **Список промптов**
 
-| № | Промпт | Задача | Источник |
+| № | Промпт | Задача |
 |---|---|---|---|
 | 1 | «Местный, который знает тайные уголки» | Нетуристические места |
 | 2 | «Эксперт по дешёвым авиабилетам» | Поиск перелётов |
